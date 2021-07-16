@@ -10,7 +10,6 @@ import time
 import inspect
 import os
 import re
-from faker import Faker
 from decimal import Decimal
 
 fake = Faker()

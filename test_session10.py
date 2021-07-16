@@ -12,8 +12,6 @@ import os
 import re
 from decimal import Decimal
 
-fake = Faker()
-
 README_CONTENT_CHECK_FOR = [ '__init__', 
                             'num_edges',
                             'num_vertices',
